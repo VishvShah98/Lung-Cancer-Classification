@@ -1,9 +1,5 @@
 # Lung Cancer Classification Analysis Using kNN, SVM and ANN
 
-## Authors
-- Gaurav Rai - Lakehead University - grai2@lakeheadu.ca - Student ID 1167185
-- Vishv Shah - Lakehead University - vshah15@lakeheadu.ca - Student ID 1160704
-
 ## Abstract
 This research project focuses on the analysis of lung cancer classification using k-nearest neighbor (kNN), Support Vector Machine (SVM), and Artificial Neural Network (ANN) algorithms. The study utilizes the NCCTG database for lung cancer data and employs Genetic Algorithm (GA) and Principal Component Analysis (PCA) for feature reduction. The goal is to develop an accurate classification model for lung cancer detection.
 
